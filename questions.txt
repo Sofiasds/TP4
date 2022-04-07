@@ -1,0 +1,4 @@
+1. Un bot est une application logiciel qui se connecte et interagit avec un serveur comme un programme client utilisee par un humain
+
+2.Le logging est un terme signifiant la gestion des logs. 
+Les logs sont des fichiers qui collectes les evenements relatifs aux systeme mais surtout a son etat.
